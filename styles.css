@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+nav{
+	background:gray;
+	color:white;
+	display:flex;
+	align-items:center;
+}
+main{
+	padding-top:3em;
+}
+#vpn{
+	border:1px solid ;
+	width:25px;
+	height:13px;
+	padding:1px;
+	margin-left:10px;
+	margin-right:10px;
+	font-size:12px;
+}
