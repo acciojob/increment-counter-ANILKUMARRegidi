@@ -1,9 +1,14 @@
 /*  your css code here. If applicable */
 nav{
-	background:gray;
+	background:black;
 	color:white;
 	display:flex;
 	align-items:center;
+	padding-left:15px;
+}
+nav i{
+	padding-right:18px;
+	font-weight:100;
 }
 main{
 	padding-top:3em;
@@ -16,4 +21,7 @@ main{
 	margin-left:10px;
 	margin-right:10px;
 	font-size:12px;
+}
+#v{
+	font-size:15px;
 }
